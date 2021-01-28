@@ -9,7 +9,7 @@ public class CasoF {
 
         trabajador.setHoras(40);
         trabajador.setHorasextra(5);
-        trabajador.setTipo("Supervisor", 20.0);
+        trabajador.setTipoEmpleado("Supervisor", 20.0);
 
         System.out.println(trabajador.getsueldo());
     }
